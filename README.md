@@ -1,52 +1,52 @@
-<div align="center">
-  <img 
-    alt="DIO Education" 
-    src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-    width="100px" 
-  />
+# API Champions League
 
-  <h1>API Champions league</h1>
+Projeto de estudo desenvolvido durante o bootcamp **Jornada Para o Futuro - Node.js**, da DIO.
 
-  <p>
-    Projeto desenvolvido durante a trilha da DIO, API REST desenvolvida com Node.js, Express e TypeScript para gerenciar jogadores e clubes da Champions League
-  </p>
-</div>
-<!--END_SECTION:header-->
+A aplicação consiste em uma API REST para gerenciamento de jogadores e clubes da Champions League, utilizando Node.js, Express e TypeScript.
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-</p>
+## Sobre o projeto
 
-# Champions API
+O projeto foi desenvolvido acompanhando as aulas práticas do bootcamp, nas quais foram apresentados conceitos de desenvolvimento de APIs e backend.
 
-API REST criada com Node.js, Express e TypeScript para gerenciamento de jogadores e clubes da Champions League. A aplicação disponibiliza endpoints para listagem, busca, criação, atualização e remoção de dados, utilizando uma estrutura organizada para facilitar manutenção, escalabilidade e desenvolvimento do backend.
-
+Durante a atividade, tive contato com conceitos como criação de rotas, requisições HTTP, operações CRUD, middlewares e organização de uma aplicação em diferentes camadas.
 
 ## Funcionalidades
 
-- Listar jogadores
-- Buscar jogador por ID
-- Filtrar jogadores por nome, clube, nacionalidade ou posição
-- Criar jogadores
-- Atualizar estatísticas
-- Remover jogadores
-- Listar clubes
-- Buscar clubes por ID
-- Health check da API
+* Listagem de jogadores
+* Busca de jogador por ID
+* Filtros de jogadores
+* Criação de jogadores
+* Atualização de jogadores
+* Remoção de jogadores
+* Listagem de clubes
+* Busca de clubes
+* Health check da API
 
-## Tecnologias Utilizadas
+## Tecnologias
 
-- Node.js
-- TypeScript
-- Express
-- CORS
-- TSX
-- TSUP
+* Node.js
+* TypeScript
+* Express
+* CORS
+* TSX
+* TSUP
 
-## Objetivo do Projeto
+## O que foi estudado
 
-O projeto foi desenvolvido com o objetivo de praticar a criação de APIs REST utilizando Node.js, Express e TypeScript, aplicando conceitos de rotas, CRUD, organização em camadas e padronização de respostas HTTP.
+O projeto proporcionou contato prático com:
 
-## Aprendizados
+* APIs REST
+* Rotas e endpoints
+* Requisições HTTP
+* Operações CRUD
+* Middlewares
+* Controllers
+* Services
+* Repositories
+* Organização em camadas
 
-Durante o desenvolvimento deste projeto, foi possível praticar conceitos importantes de backend, como criação de endpoints, manipulação de requisições HTTP, utilização de middlewares, implementação de operações CRUD e organização da aplicação utilizando controllers, services e repositories.
+## Contexto
+
+Projeto desenvolvido como parte do bootcamp **Jornada Para o Futuro - Node.js**, da DIO, com acompanhamento das aulas e exemplos apresentados durante a formação.
+
+Este repositório faz parte do meu histórico de estudos e aprendizado em desenvolvimento backend.
