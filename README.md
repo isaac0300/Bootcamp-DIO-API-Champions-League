@@ -1,3 +1,10 @@
+<div align="center">
+  <img 
+    alt="DIO Education" 
+    src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
+    width="100px" 
+  />
+
 # API Champions League
 
 Projeto de estudo desenvolvido durante o bootcamp **Jornada Para o Futuro - Node.js**, da DIO.
