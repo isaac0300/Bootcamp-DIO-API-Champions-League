@@ -1,4 +1,3 @@
-<div align="center">
   <img 
     alt="DIO Education" 
     src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
