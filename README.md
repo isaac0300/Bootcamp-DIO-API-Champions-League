@@ -8,8 +8,6 @@
 
 # API Champions League
 
-# API Champions League
-
 Projeto de estudo desenvolvido durante o bootcamp **Jornada Para o Futuro - Node.js**, da DIO.
 
 A aplicação consiste em uma API REST para gerenciamento de jogadores e clubes da Champions League, utilizando Node.js, Express e TypeScript.
